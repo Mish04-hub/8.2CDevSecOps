@@ -26,3 +26,7 @@ module.exports = {
     res.end( body );
   }
 };
+
+
+// Sonar test change
+console.log("Testing SonarCloud analysis");
